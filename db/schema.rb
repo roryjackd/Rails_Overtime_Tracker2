@@ -22,7 +22,7 @@ ActiveRecord::Schema.define(version: 2019_11_01_184502) do
     t.date "end_date"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["user_id"], name: "index_auditlogs_on_user_id"
+    t.index ["user_id"], name: "index_audit_logs_on_user_id"
   end
 
   create_table "posts", force: :cascade do |t|
