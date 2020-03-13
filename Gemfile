@@ -39,7 +39,7 @@ gem 'jquery-rails'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'gritter', "1.2.0"
-gem 'administrate', '~> 0.12.0'
+gem 'administrate', '~> 0.13.0'
 gem 'bourbon'
 gem 'pundit', '~> 2.1'
 gem 'twilio-ruby', '~> 5.28'
